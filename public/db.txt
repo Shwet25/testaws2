@@ -1,0 +1,5 @@
+postgres
+123456
+
+
+#DB_CONNECTION_STRING = postgresql://postgres:123456@localhost:5432/db_ecommerce
